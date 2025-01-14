@@ -241,6 +241,8 @@ curriculum-items:
         gfycat: "ShorttermFriendlyFairybluebird"
       - image: "shydog.gif"
         url: "NewShyDog.sb3"
+      - image: "DragonHunting.gif"
+        url: "DragonHunting.sb3"
       - image: "bunnyears.gif"
         url: "bunnyears.sb3"
       - image: "nocorona.gif"
@@ -273,6 +275,8 @@ course-wide-materials:
 all-projects:
   - image: "shydog.gif"
     url: "NewShyDog.sb3"
+  - image: "DragonHunting.gif"
+    url: "DragonHunting.sb3"
   - image: "circle-drawing.gif"
     url: "circle-drawing.sb3"
   - image: "hand-spray-paint.gif"
